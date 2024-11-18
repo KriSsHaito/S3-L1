@@ -1,0 +1,1 @@
+Facendo il test con i tre diversi metodi di gestione ed esecuzione dei processi, ne é venuto fuori che il migliore risulta il metodo multitasking, poiché permette l'impiego dei momenti di pausa di un processo per l'utilizzo immediato su altri.
